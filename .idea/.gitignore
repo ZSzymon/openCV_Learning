@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Szymon\programming\python\openCV_Learning\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
